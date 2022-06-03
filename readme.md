@@ -1,8 +1,8 @@
-# Operating Systems Ex6
+# Operating Systems Ex6💻
 
 # The purpose of the task is Design patterns.
 
- **_HOW TO run ?_
+ _HOW TO run ?_
 you can compile by using 'make all'(makefile).
 Now follow to run the project parts-
 
@@ -18,4 +18,4 @@ _part 6:_
 Required to run in Terminal 1 : _./PollServer_ Now run in Terminal 2,3: _./SelectClient localhost_.
 And that is, you can send messages that will pass through the server between the backpacks.
 
-Enjoy :)
+Enjoy 🙂🙂
