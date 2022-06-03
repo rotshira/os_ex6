@@ -2,7 +2,7 @@
 
 # The purpose of the task is Design patterns.
 
-_HOW TO run ?_
+ **_HOW TO run ?_
 you can compile by using 'make all'(makefile).
 Now follow to run the project parts-
 
